@@ -37,5 +37,6 @@ Steps Performed in the Code:
 
 These results indicate that the model can accurately recognize images classified within the categories it was trained on, with a high level of confidence.
 ![image alt](https://github.com/aishah8/model.py./blob/0c07a406e80d0c6466c9aeff5d71cecfaefb0638/Screenshot%20(1).png)
+![image alt](https://github.com/aishah8/model.py./blob/6c77ba02d5cde0f0aeeb3c53e10c98a986b46d38/Screenshot%20(1).png)
 ![image alt](
 
