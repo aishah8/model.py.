@@ -1,6 +1,8 @@
 First, I used Teachable Machine by Google to train an image classification model. I uploaded images for two classes: the first represents an iPhone, and the second represents a laptop. After training, I downloaded the model in TensorFlow format.  
 
- Libraries Used:  
+ Libraries Used:
+ -TensorFlow through Keras is used to load the trained model (load_model) and use it for predicting the categories based on the input images.
+- It is also used in the prediction process using model.predict() to obtain predictions based on the processed data.
 - Keras: To load and use the trained model.  
 - PIL (Pillow): For image processing and converting images to the required format.  
 - NumPy: For handling and preparing the data before feeding it to the model.  
@@ -36,7 +38,7 @@ Steps Performed in the Code:
    - Confidence score: 0.9999 ( 99.99%)  
 
 These results indicate that the model can accurately recognize images classified within the categories it was trained on, with a high level of confidence.
-![image alt]
+![image alt](https://github.com/aishah8/model.py./blob/9b4fc6230d9895c2db495727354494e76dbf21bc/Screenshot%202025-01-22%20135604.png)
 ![image alt](https://github.com/aishah8/model.py./blob/6c77ba02d5cde0f0aeeb3c53e10c98a986b46d38/Screenshot%20(1).png)
 ![image alt](https://github.com/aishah8/model.py./blob/8ab55f5d61f1e3e3f2a1c8504a5931e0f366db4c/Screenshot%20(2).png)
 
