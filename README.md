@@ -36,7 +36,7 @@ Steps Performed in the Code:
    - Confidence score: 0.9999 ( 99.99%)  
 
 These results indicate that the model can accurately recognize images classified within the categories it was trained on, with a high level of confidence.
-![image alt](https://github.com/aishah8/model.py./blob/0c07a406e80d0c6466c9aeff5d71cecfaefb0638/Screenshot%20(1).png)
+![image alt]
 ![image alt](https://github.com/aishah8/model.py./blob/6c77ba02d5cde0f0aeeb3c53e10c98a986b46d38/Screenshot%20(1).png)
-![image alt](
+![image alt](https://github.com/aishah8/model.py./blob/8ab55f5d61f1e3e3f2a1c8504a5931e0f366db4c/Screenshot%20(2).png)
 
