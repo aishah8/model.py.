@@ -38,7 +38,7 @@ The same steps were repeated for the second image located in a different path, a
 
 These results indicate that the model can accurately recognize images classified within the categories it was trained on, with a very high level of confidence. The model predicts the class with the highest probability, and the confidence score for both images is extremely close to 1, showing reliable classification results.
 
-![image alt](https://github.com/aishah8/model.py./blob/9b4fc6230d9895c2db495727354494e76dbf21bc/Screenshot%202025-01-22%20135604.png)
+![image alt](https://github.com/aishah8/model.py./blob/b7c0a1750abe9c757c933de6f86e20f4e68a792d/screenshot33.png)
 ![image alt](https://github.com/aishah8/model.py./blob/6c77ba02d5cde0f0aeeb3c53e10c98a986b46d38/Screenshot%20(1).png)
 ![image alt](https://github.com/aishah8/model.py./blob/8ab55f5d61f1e3e3f2a1c8504a5931e0f366db4c/Screenshot%20(2).png)
 
